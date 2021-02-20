@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a30779db-e027-47f1-87a1-3bd4d7019d2e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Us29fqzynSFzIa3N37qVrkY3PT" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workspace4Java" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\workspace4HTML2\src\day1" />
+      <recent name="F:\workspace4HTML2\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace4HTML2\src\JS基础" />
+      <recent name="F:\workspace4HTML2\src\JS高级\img" />
+      <recent name="F:\workspace4HTML2\src\JS高级" />
+      <recent name="F:\workspace4HTML2\src\day2\image" />
+      <recent name="F:\workspace4HTML2\src\day2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a30779db-e027-47f1-87a1-3bd4d7019d2e" name="Default Changelist" comment="" />
+      <created>1576130831560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576130831560</updated>
+      <workItem from="1576130832810" duration="6280000" />
+      <workItem from="1576201948854" duration="599000" />
+      <workItem from="1576482596535" duration="5541000" />
+      <workItem from="1576560485736" duration="9264000" />
+      <workItem from="1577670423760" duration="9239000" />
+      <workItem from="1577754225591" duration="4520000" />
+      <workItem from="1577774657589" duration="5107000" />
+      <workItem from="1578223703288" duration="6056000" />
+      <workItem from="1578285509109" duration="1493000" />
+      <workItem from="1578644126508" duration="2335000" />
+      <workItem from="1578981333294" duration="2905000" />
+      <workItem from="1584339236110" duration="4738000" />
+      <workItem from="1584414384601" duration="14166000" />
+      <workItem from="1584448895865" duration="2575000" />
+      <workItem from="1584498527957" duration="10944000" />
+      <workItem from="1584585071575" duration="2977000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
